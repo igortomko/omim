@@ -26399,7 +26399,7 @@
     sw = Gusa ili kukadiria na kutoa maoni kuhusu mahali hapa.
     vi = Chạm để cho điểm và đánh giá nơi này.
     zh-Hant = 點選以為這個地點評分或評論。
-    th = แตะเพื่อให้คะแนนและรีวิวสถานที่นี้
+    th = แตะเพื่อให้คะแนนและรีวิวสถานที่นี
     sk = Ťuknutím ohodnoťte a preskúmajte toto miesto.
     fi = Arvioi ja arvostele tämä paikka napauttamalla.
     ko = 탭하여 이곳을 평가하고 리뷰를 남기세요.
@@ -27470,7 +27470,7 @@
     nb = Nå kan du gi dine vurderinger selv i frakoblet modus! Ikke glem å oppdatere kartene dine for å se endringene.
     hu = Most már kapcsolat nélkül is hagyhat minősítéseket és értékeléseket! Ne felejtse el frissíteni a térképeket, hogy láthassa a módosításokat.
     hi = अब आप समीक्षाएँ और रेटिंग ऑफ़लाइन भी दे सकते हैं! अपने मानचित्रों को अपडेट करना न भूलें ताकि आप बदलाव देख सकें।
-    fr = Vous pouvez maintenant publier des évaluations et des avis même en étant hors ligne! N'oubliez pas de mettre vos cartes à jour pour voir les modifications.
+    fr = Vous pouvez maintenant publier des évaluations et des avis même en étant hors ligne ! N'oubliez pas de mettre vos cartes à jour pour voir les modifications.
     pt-BR = Agora você pode deixar classificações e avaliações mesmo quando estiver offline! Não se esqueça de atualizar os seus mapas para que possa ver as alterações.
     da = Du kan nu afgive vurderinger og anmeldelser, selv offline! Glem ikke at opdatere dit kort, så du kan se ændringerne.
     ro = Acum puteți lăsa calificative și recenzii chiar și când sunteți offline! Nu uitați să vă actualizați hărțile pentru a vedea modificările.
